@@ -2,7 +2,7 @@
 Dates: Sep-Dec 2015<br><br>
 Overview:<br>
 <ul>
-Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects.<br><br> 
+Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects. The K-L algorithm is heuristic, so it will not find the best solution. <br><br> 
 </ul>
 Input file format:</b><br><br>
 <ul>
