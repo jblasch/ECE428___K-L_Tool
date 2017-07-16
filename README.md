@@ -1,8 +1,8 @@
-<b>Project: KL Tool</b><br>
+<b>Project: K-L Tool</b><br>
 Dates: Sep-Dec 2015<br><br>
 Overview:<br>
 <ul>
-K-L software programming project to implement the Kernighan-Lin algorithm. 
+Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects. 
 </ul>
 
 <b>Input file format:</b><br>
