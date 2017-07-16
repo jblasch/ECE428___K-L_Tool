@@ -3,7 +3,7 @@ Dates: Sep-Dec 2015<br><br>
 Overview:<br>
 <ul>
 Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects.<br><br> 
-<ul>
+</ul>
 Input file format:</b><br>
 The input benchmark files are provided in the Chaco input file format. The initial (0th) line of the file contains two integers, representing the number of nodes and the number of edges in the graph. Each following (nth) line contains the list of nodes that share an edge with the nth node, separated by spaces.<br>
 
