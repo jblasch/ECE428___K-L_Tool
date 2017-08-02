@@ -2,7 +2,7 @@
 Dates: Sep-Dec 2015<br><br>
 Overview:<br>
 <ul>
-Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects. The K-L algorithm is heuristic, so it does not find the exact solution, but will find the best solution with respect to initial conditions. In this case, the initial conditions are how the nodes are initially split, which is in half, down the middle.<br>
+Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects. The K-L algorithm is heuristic, so it does not find the exact solution, but will find the best solution with respect to initial conditions. In this case, the initial conditions are how the nodes are initially split, which is in half, down the middle.<br><br>
 K-L Tool: KL_tool_LF.py<br>
 Benchmark test files: add20.txt, bcsstk33.txt, data.txt, uk.txt<br><br> 
 </ul>
