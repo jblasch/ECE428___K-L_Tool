@@ -13,10 +13,11 @@ Benchmark test files (large data files):<br>
 </ul></ul></ul></ul></ul></ul></ul></ul></ul></ul>
 Input file format:</b><br><br>
 <ul>
-The input benchmark files are provided in the Chaco input file format. The initial (0th) line of the file contains two integers, representing the number of nodes and the number of edges in the graph. Each following (nth) line contains the list of nodes that share an edge with the nth node, separated by spaces.<br>
+The input benchmark files are provided in the Chaco input file format. The initial (0th) line of the file contains two integers, representing the number of nodes and the number of edges in the graph. Each following (nth) line contains the list of nodes that share an edge with the nth node, separated by spaces.<br><br>
 
-<ul><ul>
+
 The following example represents a complete graph on 6 vertices in this format.<br> 
+<ul><ul>
 6 15<br>
 23456<br>
 13456<br>
