@@ -9,9 +9,9 @@ Benchmark test files (large data):<br>
 <li>add20.txt<br>
 <li>bcsstk33.txt<br>
 <li>data.txt, uk.txt<br><br> 
-</ul>
+</ul></ul></ul></ul>
 Input file format:</b><br><br>
-<ul><ul><ul><ul><ul>
+<ul>
 The input benchmark files are provided in the Chaco input file format. The initial (0th) line of the file contains two integers, representing the number of nodes and the number of edges in the graph. Each following (nth) line contains the list of nodes that share an edge with the nth node, separated by spaces.<br>
 
 <ul><ul>
