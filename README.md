@@ -11,7 +11,7 @@ Benchmark test files (large data files):<br>
 <li>data.txt</li>
 <li>uk.txt</li>
 </ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul>
-<b>Input file format:</b><br><br>
+<b>Input file format:</b><br>
 <ul>
 The input benchmark files are provided in the Chaco input file format. The initial (0th) line of the file contains two integers, representing the number of nodes and the number of edges in the graph. Each following (nth) line contains the list of nodes that share an edge with the nth node, separated by spaces.<br><br>
 
