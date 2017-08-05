@@ -1,15 +1,16 @@
-<b>Project: K-L Tool</b><br>
+<h1>Project: K-L Tool</h1>
 Dates: Sep-Dec 2015<br><br>
-Overview:<br>
+<b>Overview:</b><br>
 <ul>
-Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects. The K-L algorithm is heuristic, so it does not find the exact solution, but will find the best solution with respect to initial conditions. In this case, the initial conditions are how the nodes are initially split, which is in half, down the middle. The graphic below illustrates the program run on a small set of data.<br><br>
+<p>Software programming project to implement the Kernighan-Lin algorithm on files with nodes and edges that represent integrated circuits and their interconnects. The K-L algorithm is heuristic, so it does not find the exact solution, but will find the best solution with respect to initial conditions. In this case, the initial conditions are how the nodes are initially split, which is in half, down the middle. The graphic below illustrates the program run on a small set of data.<br><br>
+</p>
 K-L Tool: KL_tool_LF.py<br>
 Benchmark test files (large data files):<br>
 <ul><ul><ul><ul><ul><ul><ul><ul><ul><ul>
-<li>add20.txt<br>
-<li>bcsstk33.txt<br>
-<li>data.txt<br>
-<li>uk.txt<br><br> 
+<li>add20.txt</li>
+<li>bcsstk33.txt</li>
+<li>data.txt</li>
+<li>uk.txt</li><br><br> 
 </ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul>
 Input file format:</b><br><br>
 <ul>
