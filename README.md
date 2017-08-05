@@ -9,7 +9,7 @@ Benchmark test files (large data files):<br>
 <li>add20.txt</li>
 <li>bcsstk33.txt</li>
 <li>data.txt</li>
-<li>uk.txt</li><br><br> 
+<li>uk.txt</li>
 </ul></ul></ul></ul></ul></ul></ul></ul></ul></ul></ul>
 <b>Input file format:</b><br><br>
 <ul>
