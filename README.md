@@ -27,4 +27,6 @@ The following example represents a complete graph on 6 vertices in this format.<
 1 2 3 4 5<br>
 </ul></ul>
 
-<img src="https://drive.google.com/drive/folders/1G51kip9KbaEJ42SqCmernI7kc79WiGii"></a>
+<!-- <img src=" https://drive.google.com/open?id=1G51kip9KbaEJ42SqCmernI7kc79WiGii "></a> -->
+<!--<img src="https://drive.google.com/uc?export=view&id=XXX">-->
+<img src="https://drive.google.com/uc?export=view&id=1G51kip9KbaEJ42SqCmernI7kc79WiGii">
