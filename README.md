@@ -27,6 +27,16 @@ The following example represents a complete graph on 6 vertices in this format.<
 1 2 3 4 5<br>
 </ul></ul>
 
+<!-- Tinypic is defunkt. Trying to find a work around -->
+
 <!-- <img src=" https://drive.google.com/open?id=1G51kip9KbaEJ42SqCmernI7kc79WiGii "></a> -->
 <!--<img src="https://drive.google.com/uc?export=view&id=XXX">-->
-<img src="https://drive.google.com/uc?export=view&id=1G51kip9KbaEJ42SqCmernI7kc79WiGii">
+<!-- <img src="https://drive.google.com/uc?export=view&id=1G51kip9KbaEJ42SqCmernI7kc79WiGii"> -->
+<!-- https://drive.google.com/file/d/1SLDITOhdqLeMxSIqK-2tufjPEP6l17L3/view -->
+
+
+<a href="https://drive.google.com/uc?export=view&id=1SLDITOhdqLeMxSIqK-2tufjPEP6l17L3">
+    <img src="https://drive.google.com/uc?export=view&id=1SLDITOhdqLeMxSIqK-2tufjPEP6l17L3"
+    style="width: 250px; max-width: 100%; height: auto"
+    title="Click for the larger version." />
+</a>
