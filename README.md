@@ -18,10 +18,13 @@ The input benchmark files are provided in the Chaco input file format. The initi
 
 The following example represents a complete graph on 6 vertices in this format.<br> 
 <ul>
-6 15<br />
-23456<br />
-13456<br />
-12456 12356 12346 12345<br />
+6 15<br>
+2 3 4 5 6<br>
+1 3 4 5 6<br>
+1 2 4 5 6<br> 
+1 2 3 5 6<br> 
+1 2 3 4 6<br>
+1 2 3 4 5<br>
 </ul></ul>
 
-<img src="http://i68.tinypic.com/2lm6gw2.jpg" border="0" alt="Small file output"></a>
+<img src="https://drive.google.com/drive/folders/1G51kip9KbaEJ42SqCmernI7kc79WiGii"></a>
