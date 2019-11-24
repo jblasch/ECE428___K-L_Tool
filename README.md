@@ -48,8 +48,8 @@ The following example represents a complete graph on 6 vertices in this format.<
 </a>
 <br><br>
 
-Output on a more complicated graph:<br/>
+Output on a more complicated graph:<br/><br/>
 <a href="https://drive.google.com/uc?export=view&id=19z3ChfHDMzMVWGAjrinos7QTPI285Jcs">
     <img src="https://drive.google.com/uc?export=view&id=19z3ChfHDMzMVWGAjrinos7QTPI285Jcs"
-    width="600" height="auto"
+    width="800" height="auto"
     title="Click for the larger version." />
