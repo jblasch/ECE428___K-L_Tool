@@ -48,7 +48,7 @@ The following example represents a complete graph on 6 vertices in this format.<
 </a>
 <br><br>
 
-Output on a more complicated graph:<br/><br/>
+Output on a more complicated data set:<br/><br/>
 <a href="https://drive.google.com/uc?export=view&id=1UjP4iCq6nP7PerSegjcP6aB3XotYDlyG">
     <img src="https://drive.google.com/uc?export=view&id=1UjP4iCq6nP7PerSegjcP6aB3XotYDlyG"
     width="800" height="auto"
