@@ -41,15 +41,15 @@ The following example represents a complete graph on 6 vertices in this format.<
     title="Click for the larger version." />
 </a> -->
 
-<a href="https://drive.google.com/uc?export=view&id=17lShSrDeyl-XxHep9zck_sMGHhcrtw-l">
-    <img src="https://drive.google.com/uc?export=view&id=17lShSrDeyl-XxHep9zck_sMGHhcrtw-l"
+<a href="https://drive.google.com/uc?export=view&id=1npfpf69UQrBB76hj6qQ8qeFLJzPDh3i7">
+    <img src="https://drive.google.com/uc?export=view&id=1npfpf69UQrBB76hj6qQ8qeFLJzPDh3i7"
     width="600" height="auto"
     title="Click for the larger version." />
 </a>
 <br><br>
 
 Output on a more complicated graph:<br/><br/>
-<a href="https://drive.google.com/uc?export=view&id=1uMUVFDa3D0mBJgkAZpYAyP5c3jXRU304">
-    <img src="https://drive.google.com/uc?export=view&id=1uMUVFDa3D0mBJgkAZpYAyP5c3jXRU304"
+<a href="https://drive.google.com/uc?export=view&id=1UjP4iCq6nP7PerSegjcP6aB3XotYDlyG">
+    <img src="https://drive.google.com/uc?export=view&id=1UjP4iCq6nP7PerSegjcP6aB3XotYDlyG"
     width="800" height="auto"
     title="Click for the larger version." />
