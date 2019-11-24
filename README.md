@@ -43,6 +43,6 @@ The following example represents a complete graph on 6 vertices in this format.<
 
 <a href="https://drive.google.com/uc?export=view&id=1SLDITOhdqLeMxSIqK-2tufjPEP6l17L3">
     <img src="https://drive.google.com/uc?export=view&id=1SLDITOhdqLeMxSIqK-2tufjPEP6l17L3"
-    style='max-width:50%"
+    style="max-width:50%"
     title="Click for the larger version." />
 </a>
