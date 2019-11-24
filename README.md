@@ -41,8 +41,8 @@ The following example represents a complete graph on 6 vertices in this format.<
     title="Click for the larger version." />
 </a> -->
 
-<a href="https://drive.google.com/uc?export=view&id=1mhFLu_m3TApZ3TXdW2uvPgwYuXgUzqzU">
-    <img src="https://drive.google.com/uc?export=view&id=1mhFLu_m3TApZ3TXdW2uvPgwYuXgUzqzU"
+<a href="https://drive.google.com/uc?export=view&id=1EEh4MtDasYQ_ISEUmzaDIjL5oNGq8Ap6">
+    <img src="https://drive.google.com/uc?export=view&id=1EEh4MtDasYQ_ISEUmzaDIjL5oNGq8Ap6"
     style="max-width:50%"
     title="Click for the larger version." />
 </a>
