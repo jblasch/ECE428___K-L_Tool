@@ -49,7 +49,7 @@ The following example represents a complete graph on 6 vertices in this format.<
 <br><br>
 
 Output on a more complicated graph:<br/><br/>
-<a href="https://drive.google.com/uc?export=view&id=19z3ChfHDMzMVWGAjrinos7QTPI285Jcs">
-    <img src="https://drive.google.com/uc?export=view&id=19z3ChfHDMzMVWGAjrinos7QTPI285Jcs"
+<a href="https://drive.google.com/uc?export=view&id=1uMUVFDa3D0mBJgkAZpYAyP5c3jXRU304">
+    <img src="https://drive.google.com/uc?export=view&id=1uMUVFDa3D0mBJgkAZpYAyP5c3jXRU304"
     width="800" height="auto"
     title="Click for the larger version." />
