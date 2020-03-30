@@ -1,3 +1,11 @@
+<h1>Notice</h1>
+
+<p> Due to the high volume of students downloading my code to use on school projects, I have temporarily taken down files which contain my code, until further notice. I encourage fellow students to write their own code. You can still compare the output of your code to the output of mine by running the testbench files I have included in this repository on your code. You can compare the outputs of your code to the output results of mine that I have uploaded to this repository.
+    </p>
+<p>
+Thank you for your understanding on this matter.
+    </p>
+
 <h1>Project: K-L Tool</h1>
 Dates: Sep-Dec 2015<br /><br />
 <b>Overview:</b><br>
